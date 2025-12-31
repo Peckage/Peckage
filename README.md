@@ -1,7 +1,6 @@
 # Martijn
 
 ![Location](https://img.shields.io/badge/Netherlands-black?style=flat&logo=googlemaps&logoColor=white)
-![NIS2](https://img.shields.io/badge/NIS2_Lead_Implementor-0a0a0a?style=flat&logo=shield&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -10,6 +9,12 @@
 Software engineer building secure, self-hosted applications with a focus on zero-knowledge architecture and privacy-first design.
 
 I work across the full stack but lean toward infrastructure, security, and product engineering.
+
+### Certifications
+
+<a href="https://www.credly.com/badges/a6bda67e-3f5f-4676-bd97-8fb430008759/public_url" target="_blank">
+  <img src="https://images.credly.com/size/110x110/images/24e10a35-f5c5-4cc4-8632-c3065e9e0bcf/image.png" alt="NIS2 Lead Implementor" width="100" />
+</a>
 
 ---
 
@@ -31,7 +36,6 @@ No accounts. No logs. No trust required.
 | [![bugrepo](https://img.shields.io/badge/bugrepo.com-Vulnerabilities-f59e0b?style=flat-square)](https://bugrepo.com) | Vulnerability management |
 | [![connlog](https://img.shields.io/badge/connlog.com-Observability-10b981?style=flat-square)](https://connlog.com)   | Connection logging       |
 | [![0big](https://img.shields.io/badge/0big.com-Utility-6366f1?style=flat-square)](https://0big.com)                  | Short links              |
-| [![piaportal](https://img.shields.io/badge/piaportal.nl-Enterprise-0ea5e9?style=flat-square)](https://piaportal.nl)  | Enterprise portal        |
 
 ---
 
