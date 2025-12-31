@@ -12,8 +12,8 @@ I work across the full stack but lean toward infrastructure, security, and produ
 
 ### Certifications
 
-<a href="https://www.credly.com/badges/a6bda67e-3f5f-4676-bd97-8fb430008759/public_url" target="_blank">
-  <img src="https://images.credly.com/size/110x110/images/24e10a35-f5c5-4cc4-8632-c3065e9e0bcf/image.png" alt="NIS2 Lead Implementor" width="100" />
+<a href="https://www.credly.com/badges/a6bda67e-3f5f-4676-bd97-8fb430008759/public_url">
+  <img src="assets/nis2-lead-implementor.png" alt="NIS2 Lead Implementor" width="100" />
 </a>
 
 ---
