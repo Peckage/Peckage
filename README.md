@@ -24,7 +24,7 @@ Building products under **[DoDyna](https://dodyna.com)** — an umbrella for zer
 
 ### Flagship
 
-[![kwik.gg](https://img.shields.io/badge/kwik.gg-Zero_Knowledge_File_Sharing-0a0a0a?style=for-the-badge&logo=files&logoColor=white)](https://kwik.gg)
+[![kwik.zip](https://img.shields.io/badge/kwik.gg-Zero_Knowledge_File_Sharing-0a0a0a?style=for-the-badge&logo=files&logoColor=white)](https://kwik.gg)
 
 No accounts. No logs. No trust required.
 
