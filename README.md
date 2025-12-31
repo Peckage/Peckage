@@ -24,7 +24,7 @@ Building products under **[DoDyna](https://dodyna.com)** — an umbrella for zer
 
 ### Flagship
 
-[![kwik.zip](https://img.shields.io/badge/kwik.gg-Zero_Knowledge_File_Sharing-0a0a0a?style=for-the-badge&logo=files&logoColor=white)](https://kwik.gg)
+[![kwik.zip](https://img.shields.io/badge/kwik.zip-Zero_Knowledge_File_Sharing-0a0a0a?style=for-the-badge&logo=files&logoColor=white)](https://kwik.zip)
 
 No accounts. No logs. No trust required.
 
@@ -90,7 +90,7 @@ See [projects.md](projects.md) for a breakdown of active and incubating work.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Peckage-181717?style=flat-square&logo=github)](https://github.com/Peckage)
 [![DoDyna](https://img.shields.io/badge/DoDyna-dodyna.com-0a0a0a?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjwvc3ZnPg==)](https://dodyna.com)
-[![kwik.gg](https://img.shields.io/badge/kwik.gg-Live-10b981?style=flat-square)](https://kwik.gg)
+[![kwik.zip](https://img.shields.io/badge/kwik.zip-Live-10b981?style=flat-square)](https://kwik.gg)
 
 - [now.md](now.md) — what I'm focused on right now
 - [stack.md](stack.md) — tools and technologies
