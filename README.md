@@ -6,9 +6,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-Software engineer building secure, self-hosted applications with a focus on zero-knowledge architecture and privacy-first design.
+Full-stack software engineer from the Netherlands. I build self-hosted, privacy-first tools — mostly with TypeScript, Next.js, and PostgreSQL on hardened Linux infrastructure.
 
-I work across the full stack but lean toward infrastructure, security, and product engineering.
+I care about software that works for real people and real businesses. No fluff, no demos — production or nothing.
 
 ### Certifications
 
@@ -18,24 +18,28 @@ I work across the full stack but lean toward infrastructure, security, and produ
 
 ---
 
-## Current
+## What I'm Building
 
-Building products under **[DoDyna](https://dodyna.com)** — an umbrella for zero-knowledge tools and SaaS projects.
+### connlog.com
 
-### Flagship
+[![connlog](https://img.shields.io/badge/connlog.com-In_Development-10b981?style=for-the-badge)](https://connlog.com)
 
-[![kwik.zip](https://img.shields.io/badge/kwik.zip-Zero_Knowledge_File_Sharing-0a0a0a?style=for-the-badge&logo=files&logoColor=white)](https://kwik.zip)
+Connection logging and observability for self-hosted infrastructure. Built for people who run their own servers and want clear visibility into what's happening — without shipping data to third parties.
 
-No accounts. No logs. No trust required.
+- Real-time connection monitoring and logging
+- Built with TypeScript, Next.js, and PostgreSQL
+- Designed for self-hosted deployments
+- Privacy-first — your data stays on your machines
 
-### Domains in Incubation
+### Other Domains
 
-| Domain                                                                                                               | Focus                    |
-| :------------------------------------------------------------------------------------------------------------------- | :----------------------- |
-| [![vulnbee](https://img.shields.io/badge/vulnbee.com-Security-dc2626?style=flat-square)](https://vulnbee.com)        | Security tooling         |
-| [![bugrepo](https://img.shields.io/badge/bugrepo.com-Vulnerabilities-f59e0b?style=flat-square)](https://bugrepo.com) | Vulnerability management |
-| [![connlog](https://img.shields.io/badge/connlog.com-Observability-10b981?style=flat-square)](https://connlog.com)   | Connection logging       |
-| [![0big](https://img.shields.io/badge/0big.com-Utility-6366f1?style=flat-square)](https://0big.com)                  | Short links              |
+I own a handful of domains for current and future projects:
+
+| Domain | Focus |
+| :----- | :---- |
+| [vulnbee.com](https://vulnbee.com) | Security tooling |
+| [bugrepo.com](https://bugrepo.com) | Vulnerability management |
+| [0big.com](https://0big.com) | Short links / utility |
 
 ---
 
@@ -43,7 +47,7 @@ No accounts. No logs. No trust required.
 
 Started as a student developer at **PIA Service**, where I built and maintained multi-tenant ERP systems. They took a chance on me early, kept me on contract after graduation, and gave me room to grow into production systems, infrastructure, and client-facing work.
 
-That foundation shaped how I think about software: it has to work reliably for real businesses, not just in demos.
+That foundation shaped how I think about software — it has to work reliably for real businesses, not just in demos. I've carried that mindset into everything I build since.
 
 ---
 
@@ -58,7 +62,7 @@ That foundation shaped how I think about software: it has to work reliably for r
 ![nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-Self-hosted on hardened infrastructure with zero-knowledge patterns where it matters.
+TypeScript end-to-end, self-hosted on hardened infrastructure. I run my own servers, manage my own deployments, and keep things locked down.
 
 More in [stack.md](stack.md).
 
@@ -66,7 +70,7 @@ More in [stack.md](stack.md).
 
 ## Projects
 
-See [projects.md](projects.md) for a breakdown of active and incubating work.
+See [projects.md](projects.md) for a full breakdown of active and incubating work.
 
 ---
 
@@ -89,8 +93,7 @@ See [projects.md](projects.md) for a breakdown of active and incubating work.
 ## Links
 
 [![GitHub](https://img.shields.io/badge/GitHub-Peckage-181717?style=flat-square&logo=github)](https://github.com/Peckage)
-[![DoDyna](https://img.shields.io/badge/DoDyna-dodyna.com-0a0a0a?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjwvc3ZnPg==)](https://dodyna.com)
-[![kwik.zip](https://img.shields.io/badge/kwik.zip-Live-10b981?style=flat-square)](https://kwik.gg)
+[![connlog](https://img.shields.io/badge/connlog.com-10b981?style=flat-square)](https://connlog.com)
 
 - [now.md](now.md) — what I'm focused on right now
 - [stack.md](stack.md) — tools and technologies
