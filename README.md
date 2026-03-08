@@ -39,7 +39,7 @@ I own a handful of domains for current and future projects:
 | :----- | :---- |
 | [vulnbee.com](https://vulnbee.com) | Security tooling |
 | [bugrepo.com](https://bugrepo.com) | Vulnerability management |
-| [0big.com](https://0big.com) | Short links / utility |
+| [inn.sh](https://inn.sh) | Short links / utility |
 
 ---
 
