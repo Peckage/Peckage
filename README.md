@@ -43,14 +43,6 @@ I own a handful of domains for current and future projects:
 
 ---
 
-## Background
-
-Started as a student developer at **PIA Service**, where I built and maintained multi-tenant ERP systems. They took a chance on me early, kept me on contract after graduation, and gave me room to grow into production systems, infrastructure, and client-facing work.
-
-That foundation shaped how I think about software — it has to work reliably for real businesses, not just in demos. I've carried that mindset into everything I build since.
-
----
-
 ## Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
